@@ -1,5 +1,6 @@
 /*!
 <<<<<<< HEAD
+<<<<<<< HEAD
  * Bootstrap v4.0.0-beta (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
  * Copyright 2011-2017 Twitter, Inc.
@@ -12,6 +13,8 @@
     text-shadow: none !important;
     box-shadow: none !important;
 =======
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
  * Bootstrap v3.3.7 (http://getbootstrap.com)
  * Copyright 2011-2016 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
@@ -210,12 +213,16 @@ th {
     background: transparent !important;
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
+<<<<<<< HEAD
 >>>>>>> d162e7cf0975d3d8e8c286640d2ff4ace8ccfcef
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
   }
   a,
   a:visited {
     text-decoration: underline;
   }
+<<<<<<< HEAD
 <<<<<<< HEAD
   abbr[title]::after {
     content: " (" attr(title) ")";
@@ -223,6 +230,8 @@ th {
   pre {
     white-space: pre-wrap !important;
 =======
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
   a[href]:after {
     content: " (" attr(href) ")";
   }
@@ -232,15 +241,22 @@ th {
   a[href^="#"]:after,
   a[href^="javascript:"]:after {
     content: "";
+<<<<<<< HEAD
 >>>>>>> d162e7cf0975d3d8e8c286640d2ff4ace8ccfcef
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
   }
   pre,
   blockquote {
     border: 1px solid #999;
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> d162e7cf0975d3d8e8c286640d2ff4ace8ccfcef
+=======
+
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
     page-break-inside: avoid;
   }
   thead {
@@ -251,11 +267,17 @@ th {
     page-break-inside: avoid;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   img {
     max-width: 100% !important;
   }
 >>>>>>> d162e7cf0975d3d8e8c286640d2ff4ace8ccfcef
+=======
+  img {
+    max-width: 100% !important;
+  }
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
   p,
   h2,
   h3 {
@@ -270,14 +292,20 @@ th {
     display: none;
   }
 <<<<<<< HEAD
+<<<<<<< HEAD
   .badge {
 =======
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
   .btn > .caret,
   .dropup > .btn > .caret {
     border-top-color: #000 !important;
   }
   .label {
+<<<<<<< HEAD
 >>>>>>> d162e7cf0975d3d8e8c286640d2ff4ace8ccfcef
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
     border: 1px solid #000;
   }
   .table {
@@ -292,6 +320,7 @@ th {
     border: 1px solid #ddd !important;
   }
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 
 html {
@@ -8416,6 +8445,8 @@ a.text-dark:focus, a.text-dark:hover {
 }
 /*# sourceMappingURL=bootstrap.css.map */
 =======
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81
 @font-face {
   font-family: 'Glyphicons Halflings';
 
@@ -14911,4 +14942,7 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+<<<<<<< HEAD
 >>>>>>> d162e7cf0975d3d8e8c286640d2ff4ace8ccfcef
+=======
+>>>>>>> c92d7eb149e327004b57530db7c64e4bc7e2ce81

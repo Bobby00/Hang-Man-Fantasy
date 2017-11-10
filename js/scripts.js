@@ -54,11 +54,11 @@ window.onload = function () {
   // Select Catagory
   var selectCat = function () {
     if (chosenCategory === categories[0]) {
-      catagoryName.innerHTML = "How much do you know about html, CSS, JS";
+      catagoryName.innerHTML = "How much do you know about html, CSS, JS ?";
     } else if (chosenCategory === categories[1]) {
-      catagoryName.innerHTML = "How much do you know about html, CSS, JS";
+      catagoryName.innerHTML = "How much do you know about html, CSS, JS ?";
     } else if (chosenCategory === categories[2]) {
-      catagoryName.innerHTML = "How much do you know about html, CSS, JS";
+      catagoryName.innerHTML = "How much do you know about html, CSS, JS ?";
     }
   }
 
@@ -76,18 +76,18 @@ window.onload = function () {
         space = 1;
       } else if (word[i] === "<") {
         guess.innerHTML = "<";
-        space = 1;
+
     } else if (word[i] === ">") {
       guess.innerHTML = ">";
-      space = 1;
+
 
   } else if (word[i] === "(") {
     guess.innerHTML = "(";
-    space = 1;
+
 
 } else if (word[i] === ")") {
   guess.innerHTML = ")";
-  space = 1;
+
 
       } else {
         guess.innerHTML = "_";

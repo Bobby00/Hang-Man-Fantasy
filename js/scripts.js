@@ -1,3 +1,14 @@
+// function validateTextbox() {
+//   var box = document.getElementById("name");
+//   if (box.value.length<2) {
+//     box.focus();
+//     box.style.border="solid 3px red";
+//     return false;
+//   }
+// }
+
+
+
 window.onload = function () {
 
   var alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h',

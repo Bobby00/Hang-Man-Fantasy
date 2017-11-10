@@ -2,12 +2,13 @@
 A Simple Hang game that is fun and educative at the same time since it involves HTML,CSS and JAVASCRIPT where you get to answer a set of html css and javascript questions in a fun and interactive way.
 
 # Contributors
-
-Robert Edward 
-Joshua Ngomeli
-Christine Karimi
-Sharon Kirui
-Mariam Omar
+<ul>
+ 
+<li>Robert Edward</li>
+<li>Joshua Ngomeli</li>
+<li>Christine Karimi</li>
+<li>Sharon Kirui</li>
+<li>Mariam Omar</li>
 
 ## Technologies Used.
 
